@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
 
-Writer: Kyungjin Sohn
+Writer: Kyungjin Sohn\
 Last modified: 07.19.2021
 
 # Purpose of the project
@@ -24,6 +24,6 @@ Demonstrate ability to collect, work with, and clean a data set. The goal is to 
 # Review criteria
 | Left-Aligned  | Link  |
 | :------------ |:----------------|
-| tidy data     | some wordy text |
-| Github repo   | [a link](https://github.com/user/repo/blob/branch/other_file.md)        |
-| CodeBook.md   | are neat        |
+| tidy data     | [tidy data](https://github.com/KyungJin-JinnySohn/DataScience/blob/main/data/tidy_data.txt) |
+| Github repo   | [repository](https://github.com/KyungJin-JinnySohn/DataScience)                             |
+| CodeBook.md   | [code book]((https://github.com/KyungJin-JinnySohn/DataScience))        |
