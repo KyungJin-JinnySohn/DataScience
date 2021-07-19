@@ -69,4 +69,4 @@ library(dplyr)
 tidy_data <- HAR %>% group_by(subject, acitivity) %>% 
   summarise(across(everything(), list(mean)))
 
-write.table(tidy_data, "./data/tidy_data.txt")
+write.table(tidy_data, "./data/tidy_data.txt", row.names = FALSE)
