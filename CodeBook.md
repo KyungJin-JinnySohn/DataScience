@@ -31,4 +31,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
   4 SITTING
   5 STANDING
   6 LAYING\
-3 ~. the average of each variable(= the measurements on the mean and standard deviation for each measurement) for each activity and each subject
+3. the other variables: the average of each variable(= the measurements on the mean and standard deviation for each measurement) for each activity and each subject
