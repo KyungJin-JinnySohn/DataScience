@@ -20,3 +20,15 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 3.	Uses descriptive activity names to name the activities in the data set
 4.	Appropriately labels the data set with descriptive variable names. 
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+# Variable description about tidy_data.txt
+1. subject: 
+  a group of 30 volunteers within an age bracket of 19-48 years
+2. activity:
+  1 WALKING
+  2 WALKING_UPSTAIRS
+  3 WALKING_DOWNSTAIRS
+  4 SITTING
+  5 STANDING
+  6 LAYING
+3 ~. the average of each variable(= the measurements on the mean and standard deviation for each measurement) for each activity and each subject
